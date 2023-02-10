@@ -28,6 +28,6 @@ Free and open source software : FreeCAD
 ![Batterie protection view](https://raw.githubusercontent.com/Monitoring-CO2/.github/main/images/3D_batterie_case_protection.png)
 ![Solar module front view](https://raw.githubusercontent.com/Monitoring-CO2/.github/main/images/3D_module_solar_front.png)
 ![Attendance module back view](https://raw.githubusercontent.com/Monitoring-CO2/.github/main/images/3D_attendance_module_back.png)
-![Attendance module front view](https://raw.githubusercontent.com/Monitoring-CO2/.github/main/images/3D_attendance_module_frontt.png)
+![Attendance module front view](https://raw.githubusercontent.com/Monitoring-CO2/.github/main/images/3D_attendance_module_front.png)
 
 
