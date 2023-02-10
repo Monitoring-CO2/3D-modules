@@ -9,6 +9,12 @@ Free and open source software : FreeCAD
 ## Tools and screws
 
 - 1x Screwdriver
+- 9x M3 12mm screw (+3 without solar and attendance module)
+- 3x M3 16mm screw (-3 without solar and attendance module)
+- 2x M2 8mm screw
+- 2x M3 Nut
+- 4x M3 20mm Threaded spacer female-female
+- 4x M3 30mm Threaded spacer male-female
 
 ## Assembly
 
